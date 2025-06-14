@@ -41,8 +41,16 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 ## 🧪 Conteúdos
 
 | Aula | Nome da Aula              | Link                                                            |
-|------|---------------------------|-------------------------------------------------------------------------------|
-| 01   |   |  |
+|------|---------------------------|-----------------------------------------------------------------|
+| 01   |  Conceitos Básicos        | [Conceitos Básicos](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados/blob/main/aulas/01.md) |
+
+---
+
+## 🛠️ Ferramentas
+
+Para acompanhar as aulas e desenvolver os projetos, utilizaremos as seguintes ferramentas:
+
+- **Google Colab:** Ambiente online para programar em Python e fazer análises de dados com bibliotecas como Pandas e Matplotlib.
 
 ---
 
