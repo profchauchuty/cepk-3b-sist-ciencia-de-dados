@@ -1,0 +1,102 @@
+# O que é Ciência de Dados?
+
+A **Ciência de Dados** é uma área que combina **matemática**, **estatística**, **inteligência artificial** e **engenharia da computação** para analisar grandes volumes de dados. 
+
+O objetivo principal é **extrair insights e conhecimentos valiosos** que ajudem empresas e organizações a tomar decisões melhores. 
+
+Basicamente, ela busca responder perguntas como:  
+- "O que aconteceu?"  
+- "Por que aconteceu?"  
+- "O que vai acontecer?"  
+- "O que podemos fazer com esses resultados?"
+
+---
+
+# Por que a Ciência de Dados é Importante?
+
+Vivemos em um mundo onde somos bombardeados por dados — desde o que compramos online até o que publicamos nas redes sociais. 
+
+Há uma quantidade gigantesca de informações em texto, áudio, vídeo e imagens. A Ciência de Dados é crucial porque **transforma esse monte de dados brutos em algo que faz sentido**.
+
+Ela usa ferramentas e métodos para **desvendar padrões e tendências**, permitindo que as organizações:
+- entendam melhor seus clientes,
+- otimizem operações,
+- e identifiquem novas oportunidades.
+
+---
+
+# História e Futuro da Ciência de Dados
+
+O termo **"ciência de dados"** surgiu nos anos **1960**, inicialmente como sinônimo de **estatística**.
+
+Nos anos **1990**, ganhou uma definição mais formal, focando no **design, coleta e análise de dados**.
+
+No entanto, foi na última década que a área explodiu, impulsionada pelos avanços em **inteligência artificial e machine learning**, que tornaram o processamento de dados muito mais rápido e eficiente.
+
+Hoje, com a crescente demanda por profissionais que consigam lidar com essa avalanche de informações, a Ciência de Dados é considerada uma das **profissões do futuro**, com **forte crescimento projetado**.
+
+---
+
+# Para que Serve a Ciência de Dados?
+
+A Ciência de Dados é aplicada de **quatro formas principais** para analisar e interpretar informações:
+
+## 1. Análise Descritiva
+
+**O que faz:**  
+Descreve o que aconteceu ou o que está acontecendo.
+
+**Como funciona:**  
+Utiliza gráficos (pizza, barras, linhas) e tabelas para visualizar dados.
+
+**Exemplo:**  
+Uma empresa de viagens pode analisar o número de passagens vendidas por dia para identificar os períodos de maior movimento.
+
+---
+
+## 2. Análise Diagnóstica
+
+**O que faz:**  
+Explica por que algo aconteceu, investigando as causas por trás dos eventos.
+
+**Como funciona:**  
+Usa técnicas como "drill-down" (aprofundamento em detalhes), mineração de dados e correlações.
+
+**Exemplo:**  
+Se a venda de passagens aumentou muito em um mês específico, a análise diagnóstica pode revelar que foi devido a um grande evento esportivo na cidade de destino.
+
+---
+
+## 3. Análise Preditiva
+
+**O que faz:**  
+Prevê o que pode acontecer no futuro, com base em dados históricos.
+
+**Como funciona:**  
+Aplica técnicas de machine learning e modelagem preditiva para identificar padrões futuros.
+
+**Exemplo:**  
+Com base em vendas anteriores, a empresa de viagens pode prever um aumento na procura por passagens para determinadas cidades em datas futuras e, assim, planejar campanhas de marketing com antecedência.
+
+---
+
+## 4. Análise Prescritiva
+
+**O que faz:**  
+Além de prever, sugere a melhor ação a ser tomada para otimizar um resultado.
+
+**Como funciona:**  
+Utiliza simulações, redes neurais e mecanismos de recomendação para analisar os impactos de diferentes escolhas.
+
+**Exemplo:**  
+A análise prescritiva pode recomendar qual o melhor investimento em marketing para maximizar as vendas em um próximo pico de demanda, calculando o retorno de diferentes estratégias.
+
+---
+
+# Conclusão
+
+A Ciência de Dados é uma **ferramenta poderosa** para transformar dados em inteligência, ajudando a tomar **decisões mais eficazes e estratégicas** em diversos setores.
+
+Ela está moldando o presente e o futuro das organizações, da tecnologia e da sociedade como um todo.
+
+Fonte: https://aws.amazon.com/pt/what-is/data-science/
