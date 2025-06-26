@@ -44,7 +44,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 | Aula | Nome da Aula              | Link                                                            |
 |------|---------------------------|-----------------------------------------------------------------|
 | 01   |  Conceitos Básicos        | [Conceitos Básicos](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados/blob/main/aulas/01.md) |
-| 02   |  Coleta Dados (Sorvete)   | [Coleta Dados](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados/tree/main/aulas) |
+| 02   |  Coleta Dados (Sorvete)   | [Coleta Dados](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados/blob/main/aulas/02_coleta_dados.md) |
 ---
 
 ## 🛠️ Ferramentas
