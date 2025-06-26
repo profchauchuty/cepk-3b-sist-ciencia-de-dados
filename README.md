@@ -15,7 +15,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 |-----------------------------|-----------------------------------|----------------|------------------------|
 | Avaliação 1 (individual)    | Conteúdos iniciais                | 3,0            | 04/07/2025             |
 | Avaliação 2 (individual)    | Conteúdos intermediários/finais   | 3,0            | [Definir]              |
-| Atividade 1 (grupo)         | Coleta de Dados                   | 2,0            | 27/06/2025             |
+| Atividade 1 (grupo)         | Análise Descritiva                | 2,0            | 27/06/2025             |
 | Atividade 2 (grupo)         | [Definir]                         | 2,0            | [Definir]              |
 | **Total**                   |                                   | **10,0**       |                        |
 
@@ -45,6 +45,8 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 |------|---------------------------|-----------------------------------------------------------------|
 | 01   |  Conceitos Básicos        | [Conceitos Básicos](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados/blob/main/aulas/01.md) |
 | 02   |  Coleta Dados (Sorvete)   | [Coleta Dados](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados/blob/main/aulas/02_coleta_dados.md) |
+| 03   |  Atividade 1              | [Formulário](https://forms.gle/Qmt6CyS4K95Uk14C7) |
+
 ---
 
 ## 🛠️ Ferramentas
