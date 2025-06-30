@@ -23,19 +23,21 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 ## 👥 Grupos de Trabalho
 
-| Grupo | Integrantes                            | Entregue?         |
-|-------|----------------------------------------|-------------------|
-| 1     | Amanda, Rafaelle, Bryan                | ❌                |
-| 2     | Kenny, Luiza, Venus                    | ❌                |
-| 3     | Ana, Maria, Gustavo                    | ❌                |
-| 4     | Guilherme, Filipe, Rafael              | ❌                |
-| 5     | Kauan, Nicolas, Maneys, Whenghel       | ❌                |
-| 6     | Gerson, Poliayan, Felipe               | ❌                |
-| 7     | Paulo, Igor                            | ❌                |
-| 8     | Welinton, Matheus, Kamyli              | ❌                |
-| 9     | Kauane, Felipe, Gabriel                | ❌                |
-| 10    | Luis, Willian                          | ❌                |
-| 11    | Layze, Samuel                          | ❌                |
+| Grupo | Integrantes                            | Entregue?         | Nota |
+|-------|----------------------------------------|-------------------|------|
+| 1     | Amanda, Rafaelle, Bryan                | ✅                | 1.7 |
+| 2     | Kenny, Luiza, Venus                    | ✅                | 1.7 |
+| 3     | Ana, Maria, Gustavo                    | ✅                | 2.0 |
+| 4     | Guilherme, Filipe, Rafael              | ✅                | 1.7 |
+| 5     | Kauan, Nicolas, Whenghel               | ✅                | 1.7 |
+| 6     | Gerson, Rhayan                         | ✅                | 0.3 |
+| 7     | Paulo, Igor                            | ✅                | 2.0 |
+| 8     | Welinton, Matheus, Kamily              | ✅                | 1.7 |
+| 9     | Kauane, Felipe, Gabriel                | ✅                | 2.0 |
+| 10    | Luis, Willian                          | ✅                | 2.0 |
+| 11    | Layze, Samuel                          | ✅                | 2.0 |
+| 12    | Venus, Luiza, Kenny                    | ✅                | 1.8 |
+| 13    | Kauane, Felipe, Gabriel                | ✅                | 2.0 |
 
 ---
 
