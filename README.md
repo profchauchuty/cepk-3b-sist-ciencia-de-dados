@@ -23,21 +23,21 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 ## 👥 Grupos de Trabalho
 
-| Grupo | Integrantes                            | Entregue?         |
-|-------|----------------------------------------|-------------------|
-| 1     | Amanda, Rafaelle, Bryan                | ✅                |
-| 2     | Kenny, Luiza, Venus                    | ✅                |
-| 3     | Ana, Maria, Gustavo                    | ✅                |
-| 4     | Guilherme, Filipe, Rafael              | ✅                |
-| 5     | Kauan, Nicolas, Whenghel               | ✅                |
-| 6     | Gerson, Rhayan                         | ✅                |
-| 7     | Paulo, Igor                            | ✅                |
-| 8     | Welinton, Matheus, Kamily              | ✅                |
-| 9     | Kauane, Felipe, Gabriel                | ✅                | 
-| 10    | Luis, Willian                          | ✅                |
-| 11    | Layze, Samuel                          | ✅                |
-| 12    | Venus, Luiza, Kenny                    | ✅                |
-| 13    | Kauane, Felipe, Gabriel                | ✅                |
+| Grupo | Integrantes                            | Atividade 1 | Atividade 2 |
+|-------|----------------------------------------|-------------|-------------|
+| 3     | Ana, Gustavo, Maria                    | ✅          | ⬜          |
+| 13    | Alisson Kauane, Felipe, Gabriel        | ✅          | ⬜          |
+| 1     | Amanda, Bryan, Rafaelle                | ✅          | ⬜          |
+| 4     | Filipe, Guilherme, Rafael              | ✅          | ⬜          |
+| 9     | Felipe, Gabriel, Kauane                | ✅          | ⬜          |
+| 6     | Gerson, Rhayan                         | ✅          | ⬜          |
+| 2     | Kenny, Luiza, Venus                    | ✅          | ⬜          |
+| 11    | Layze, Samuel                          | ✅          | ⬜          |
+| 10    | Luis, Willian                          | ✅          | ⬜          |
+| 7     | Igor, Paulo                            | ✅          | ⬜          |
+| 8     | Kamily, Matheus, Welinton              | ✅          | ⬜          |
+| 5     | Kauan, Nicolas, Whenghel               | ✅          | ⬜          |
+| 12    | Kenny, Luiza, Venus                    | ✅          | ⬜          |
 
 ---
 
