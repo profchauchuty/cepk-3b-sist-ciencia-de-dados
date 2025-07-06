@@ -24,20 +24,20 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 ## 👥 Grupos de Trabalho
 
 | Grupo | Integrantes                            | Atividade 1 | Atividade 2 |
-|-------|----------------------------------------|-------------|-------------|
-| 3     | Ana, Gustavo, Maria                    | ✅          | ⬜          |
-| 13    | Alisson Kauane, Felipe, Gabriel        | ✅          | ⬜          |
-| 1     | Amanda, Bryan, Rafaelle                | ✅          | ⬜          |
+|-------|----------------------------------------|--------------|-------------|
+| 1     | Ana, Gustavo, Maria                    | ✅          | ⬜          |
+| 2     | Alisson Kauane, Felipe, Gabriel        | ✅          | ⬜          |
+| 3     | Amanda, Bryan, Rafaelle                | ✅          | ⬜          |
 | 4     | Filipe, Guilherme, Rafael              | ✅          | ⬜          |
-| 9     | Felipe, Gabriel, Kauane                | ✅          | ⬜          |
+| 5     | Felipe, Gabriel, Kauane                | ✅          | ⬜          |
 | 6     | Gerson, Rhayan                         | ✅          | ⬜          |
-| 2     | Kenny, Luiza, Venus                    | ✅          | ⬜          |
-| 11    | Layze, Samuel                          | ✅          | ⬜          |
-| 10    | Luis, Willian                          | ✅          | ⬜          |
-| 7     | Igor, Paulo                            | ✅          | ⬜          |
-| 8     | Kamily, Matheus, Welinton              | ✅          | ⬜          |
-| 5     | Kauan, Nicolas, Whenghel               | ✅          | ⬜          |
-| 12    | Kenny, Luiza, Venus                    | ✅          | ⬜          |
+| 7     | Kenny, Luiza, Venus                    | ✅          | ⬜          |
+| 8     | Layze, Samuel                          | ✅          | ⬜          |
+| 9     | Luis, Willianm, Paulo                  | ✅          | ⬜          |
+| 10    | Igor                                   | ✅          | ⬜          |
+| 11    | Kamily, Matheus, Welinton              | ✅          | ⬜          |
+| 12    | Kauan, Nicolas, Whenghel               | ✅          | ⬜          |
+| 13    | Fernando, Kauã, Vinicius               | ✅          | ⬜          |
 
 ---
 
