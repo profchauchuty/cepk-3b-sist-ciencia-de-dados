@@ -79,7 +79,7 @@ Vamos analisar as temperaturas registradas durante **7 dias** em uma cidade com 
 - 📉 **Desvio pequeno (0,69)** → As temperaturas **variaram pouco**.  
 - Isso indica que a cidade tem um **clima estável** naquela semana.  
 
-Se os valores fossem muito diferentes (como 15, 30, 35...), o desvio seria maior, indicando **alta variação** (clima instável).
+Se os valores fossem muito diferentes (como 5, 10, 15...), o desvio seria maior, indicando **alta variação** (clima instável).
 
 ---
 
@@ -101,3 +101,5 @@ E isso vale para notas, alturas, idades e qualquer outro tipo de dado numérico.
 | **Acima de 4 ºC**  | 🔥 **Clima instável** (alta variação) |
 
 ---
+
+Fonte: https://brasilescola.uol.com.br/matematica/desvio-padrao.htm
