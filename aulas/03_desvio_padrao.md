@@ -1,121 +1,103 @@
-| Conceito       | Definição                                     | Exemplo                                                         |
-|----------------|----------------------------------------------|----------------------------------------------------------------|
-| **População**  | Conjunto total de elementos que estudamos.  | Todos os alunos de uma escola.                                  |
-| **Amostra**    | Parte da população selecionada para análise. | 30 alunos escolhidos aleatoriamente.                            |
-| **Variável**   | Característica medida ou observada.          | Altura (quantitativa), cor dos olhos (qualitativa).            |
-| **Média**      | Soma dos valores dividida pela quantidade.    | Dados: [1,65, 1,70, 1,75]<br>**Média = (1,65 + 1,70 + 1,75) / 3 = 1,70** |
-| **Mediana**    | Valor central em dados ordenados.              | Dados: [1,65, 1,70, 1,75]<br>Mediana = 1,70 (valor do meio)    |
-| **Moda**       | Valor que mais se repete.                      | Dados: [1,70, 1,75, 1,75]<br>Moda = 1,75 (mais frequente)      |
-| **Desvio Padrão** | Mede a variação dos dados em relação à média.| Pequeno desvio indica dados próximos da média.                  |
+### 📊 **Conceitos Básicos de Estatística**
+
+| Conceito              | Definição                                                                 | Exemplo                                                                 |
+|-----------------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| **População**         | Conjunto total de elementos que estudamos.                                | Todos os alunos de uma escola.                                          |
+| **Amostra**           | Parte da população selecionada para análise.                              | 30 alunos escolhidos aleatoriamente.                                   |
+| **Parâmetro**         | Medida que descreve uma característica da **população**.                  | A média de altura de todos os alunos da escola.                        |
+| **Estatística (estimador)** | Medida calculada a partir de uma **amostra**.                        | A média da altura dos 30 alunos da amostra.                            |
+| **Variável**          | Característica medida ou observada.                                       | Altura (quantitativa), cor dos olhos (qualitativa).                    |
+| **Tipos de Variáveis**| Classificação das variáveis: **qualitativas** (categorias) ou **quantitativas** (números). | Cor dos olhos (qualitativa), idade (quantitativa).            |
+| **Frequência Absoluta**| Número de vezes que um valor aparece em um conjunto de dados.            | Nota 10 apareceu 5 vezes.                                               |
+| **Frequência Relativa**| Proporção ou porcentagem de ocorrência de um valor.                      | Nota 10 apareceu em 5 de 20 alunos → 25%.                              |
+| **Média**             | Soma dos valores dividida pela quantidade.                                | Dados: [1,65, 1,70, 1,75] → Média = (1,65 + 1,70 + 1,75)/3 = 1,70       |
+| **Mediana**           | Valor central em dados ordenados.                                         | Dados: [1,65, 1,70, 1,75] → Mediana = 1,70                             |
+| **Moda**              | Valor que mais se repete.                                                 | Dados: [1,70, 1,75, 1,75] → Moda = 1,75                                |
+| **Variância**         | Média dos quadrados dos desvios em relação à média.                       | Serve de base para o cálculo do desvio padrão.                         |
+| **Desvio Padrão**     | Mede o grau de variação dos dados em relação à média.                     | Pequeno desvio → dados próximos da média; grande desvio → dados dispersos. |
 
 ---
 
-# Como calcular o Desvio Padrão
+## 🌤️ Exemplo Prático: Desvio Padrão nas Temperaturas
 
-O desvio padrão mostra o quanto os dados estão espalhados em torno da média.
+Vamos analisar as temperaturas registradas durante **7 dias** em uma cidade com **clima estável**.
 
----
-
-## Dados:
-**[ 1.65, 1.70, 1.75, 1.80, 1.85 ]**
+### Dados:
+**[22, 23, 22, 21, 22, 23, 22] (em ºC)**
 
 ---
 
-## Passo 1: Calcule a média (x̄)
-Média (x̄) = Soma dos valores ÷ quantidade de valores  
-> x̄ = (x₁ + x₂ + ... + xₙ) ÷ n
+## 🧮 Passo a Passo
 
-**Exemplo:**  
-> x̄ = (1,65 + 1,70 + 1,75 + 1,80 + 1,85) ÷ 5 = 1,75
+### 1️⃣ Calcule a média (x̄)
 
----
-
-## Passo 2: Calcule o quadrado do desvio da média
-
-Quadrado do desvio da média (xᵢ − x̄)²: Para cada valor, calcule (xᵢ − x̄)².
-
-> (1,65 − 1,75)² = 0,01  
-> (1,70 − 1,75)² = 0,0025  
-> (1,75 − 1,75)² = 0  
-> (1,80 − 1,75)² = 0,0025  
-> (1,85 − 1,75)² = 0,01
+> x̄ = (22 + 23 + 22 + 21 + 22 + 23 + 22) ÷ 7  
+> x̄ = 155 ÷ 7 ≈ **22,14 ºC**
 
 ---
 
-## Passo 3: Some todos os resultados
+### 2️⃣ Calcule os desvios ao quadrado (xᵢ − x̄)²
 
-Soma dos quadrados = Σ (xᵢ − x̄)²
-
-**Exemplo:**  
-> 0,01 + 0,0025 + 0 + 0,0025 + 0,01 = 0,025
-
----
-
-## Passo 4: Divida a soma por (n − 1)
-
-Variância (s²) = Soma dos quadrados ÷ (n − 1)
-
-**Exemplo:**  
-> s² = 0,025 ÷ (5 − 1) = 0,025 ÷ 4 = 0,00625
+| Dia | Temperatura | (xᵢ − x̄)²           |
+|-----|-------------|----------------------|
+| 1   | 22          | (22 − 22,14)² = 0,02 |
+| 2   | 23          | (23 − 22,14)² = 0,74 |
+| 3   | 22          | (22 − 22,14)² = 0,02 |
+| 4   | 21          | (21 − 22,14)² = 1,30 |
+| 5   | 22          | (22 − 22,14)² = 0,02 |
+| 6   | 23          | (23 − 22,14)² = 0,74 |
+| 7   | 22          | (22 − 22,14)² = 0,02 |
 
 ---
 
-## Passo 5: Calcule a raiz quadrada do valor
+### 3️⃣ Some os quadrados dos desvios
 
-Desvio padrão (s | σ) = √variância
-
-**Exemplo:**  
-> s = √0,00625 ≈ 0,079
+> Soma: 0,02 + 0,74 + 0,02 + 1,30 + 0,02 + 0,74 + 0,02 = **2,86**
 
 ---
 
-## Resultado final:
-🎯 **Desvio padrão (s | σ) ≈ 0,079**
+### 4️⃣ Calcule a variância
+
+> Variância (s²) = 2,86 ÷ (7 − 1) = 2,86 ÷ 6 = **0,48**
 
 ---
 
-## Exemplos
+### 5️⃣ Calcule o desvio padrão
 
-## Exemplo 1: Temperaturas com pouca variação
-
-| Dia | Temperatura (ºC) | Cálculo (xᵢ − x̄)²          |
-|-----|------------------|----------------------------|
-| 1   | 22               | (22 − 22,14)² = 0,02       |
-| 2   | 23               | (23 − 22,14)² = 0,74       |
-| 3   | 22               | (22 − 22,14)² = 0,02       |
-| 4   | 21               | (21 − 22,14)² = 1,30       |
-| 5   | 22               | (22 − 22,14)² = 0,02       |
-| 6   | 23               | (23 − 22,14)² = 0,74       |
-| 7   | 22               | (22 − 22,14)² = 0,02       |
-
-| Cálculo                   | Valor           |
-|---------------------------|-----------------|
-| Soma dos quadrados         | 2,86            |
-| Variância (dividir por 6) | 2,86 ÷ 6 = 0,48 |
-| Desvio padrão             | √0,48 ≈ 0,69    |
+> s = √0,48 ≈ **0,69**
 
 ---
 
-## Exemplo 2: Temperaturas com muita variação
+## ✅ Resultado Final:
 
-| Dia | Temperatura (ºC) | Cálculo (xᵢ − x̄)²          |
-|-----|------------------|----------------------------|
-| 1   | 15               | (15 − 24)² = 81            |
-| 2   | 28               | (28 − 24)² = 16            |
-| 3   | 20               | (20 − 24)² = 16            |
-| 4   | 30               | (30 − 24)² = 36            |
-| 5   | 18               | (18 − 24)² = 36            |
-| 6   | 35               | (35 − 24)² = 121           |
-| 7   | 22               | (22 − 24)² = 4             |
-
-| Cálculo                   | Valor               |
-|---------------------------|---------------------|
-| Soma dos quadrados         | 310                 |
-| Variância (dividir por 6) | 310 ÷ 6 ≈ 51,67     |
-| Desvio padrão             | √51,67 ≈ 7,19       |
+**Desvio padrão das temperaturas ≈ 0,69 ºC**
 
 ---
 
-🎯 **Conclusão:**  
-- Desvio padrão ≈ 0,69 indica pouca variação nas temperaturas (clima estável).  
-- Desvio padrão ≈ 7,19 indica grande variação, refletindo clima instável.
+## 🧠 Interpretação:
+
+- 📉 **Desvio pequeno (0,69)** → As temperaturas **variaram pouco**.  
+- Isso indica que a cidade tem um **clima estável** naquela semana.  
+
+Se os valores fossem muito diferentes (como 15, 30, 35...), o desvio seria maior, indicando **alta variação** (clima instável).
+
+---
+
+---
+
+✏️ **Resumo:**  
+O **desvio padrão** ajuda a responder perguntas como:
+
+> _"As temperaturas estão estáveis ou variando muito?"_
+
+E isso vale para notas, alturas, idades e qualquer outro tipo de dado numérico.
+
+### 🧭 Como interpretar os valores do desvio padrão:
+
+| Desvio Padrão (σ) | Interpretação                     |
+|-------------------|------------------------------------|
+| **0 a 1,5 ºC**     | 🔹 **Clima estável** (baixa variação) |
+| **1,5 a 4 ºC**     | ⚠️ **Variação moderada**              |
+| **Acima de 4 ºC**  | 🔥 **Clima instável** (alta variação) |
+
+---
