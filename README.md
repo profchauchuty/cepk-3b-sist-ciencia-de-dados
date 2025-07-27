@@ -11,13 +11,25 @@
 
 A avaliação será composta por duas provas individuais e um trabalho em grupo, conforme a tabela a seguir:
 
-| Instrumento de Avaliação     | Descrição                         | Valor (pontos) | Data prevista         |
-|-----------------------------|-----------------------------------|----------------|------------------------|
-| Avaliação 1 (individual)    | Conteúdos iniciais                | 3,0            | 04/07/2025             |
-| Avaliação 2 (individual)    | Conteúdos intermediários/finais   | 3,0            | [Definir]              |
-| Atividade 1 (grupo)         | Análise Descritiva                | 2,0            | 27/06/2025             |
-| Atividade 2 (grupo)         | [Definir]                         | 2,0            | [Definir]              |
-| **Total**                   |                                   | **10,0**       |                        |
+### Avaliações e Atividades
+
+| Avaliação / Atividade     | Descrição               | Pontos | Data prevista | Realizada? |
+|---------------------------|-------------------------|--------|----------------|-------------|
+| Avaliação 1               | Análise Descritiva      | 3,0    | 04/07/2025     | ✅          |
+| Avaliação 2               | Análise Diagnóstica     | 3,0    | 15/08/2025     | ⬜          |
+| Atividade 1 (grupo)       | Análise Descritiva      | 2,0    | 27/06/2025     | ✅          |
+| Atividade 2 (grupo)       | Análise Diagnóstica     | 2,0    | 15/08/2025     | ⬜          |
+| **Total**                 |                         | **10,0** |                |             |
+
+---
+
+### Recuperações
+
+| Recuperação               | Descrição                     | Pontos | Data prevista | Realizada? |
+|---------------------------|-------------------------------|--------|----------------|-------------|
+| Avaliações                | A. Descritiva + A. Diagnóstica | 6,0    | 18/08/2025     | ⬜          |
+| Atividades                | A. Descritiva + A. Diagnóstica | 4,0    | 18/08/2025     | ⬜          |
+| **Total**                 |                               | **10,0** |                |             |
 
 ---
 
