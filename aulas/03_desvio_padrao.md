@@ -1,5 +1,3 @@
-# 📊 Conceitos Básicos de Estatística
-
 | Conceito       | Definição                                     | Exemplo                                                         |
 |----------------|----------------------------------------------|----------------------------------------------------------------|
 | **População**  | Conjunto total de elementos que estudamos.  | Todos os alunos de uma escola.                                  |
@@ -75,3 +73,49 @@ Desvio padrão (s | σ) = √variância
 🎯 **Desvio padrão (s | σ) ≈ 0,079**
 
 ---
+
+## Exemplos
+
+## Exemplo 1: Temperaturas com pouca variação
+
+| Dia | Temperatura (ºC) | Cálculo (xᵢ − x̄)²          |
+|-----|------------------|----------------------------|
+| 1   | 22               | (22 − 22,14)² = 0,02       |
+| 2   | 23               | (23 − 22,14)² = 0,74       |
+| 3   | 22               | (22 − 22,14)² = 0,02       |
+| 4   | 21               | (21 − 22,14)² = 1,30       |
+| 5   | 22               | (22 − 22,14)² = 0,02       |
+| 6   | 23               | (23 − 22,14)² = 0,74       |
+| 7   | 22               | (22 − 22,14)² = 0,02       |
+
+| Cálculo                   | Valor           |
+|---------------------------|-----------------|
+| Soma dos quadrados         | 2,86            |
+| Variância (dividir por 6) | 2,86 ÷ 6 = 0,48 |
+| Desvio padrão             | √0,48 ≈ 0,69    |
+
+---
+
+## Exemplo 2: Temperaturas com muita variação
+
+| Dia | Temperatura (ºC) | Cálculo (xᵢ − x̄)²          |
+|-----|------------------|----------------------------|
+| 1   | 15               | (15 − 24)² = 81            |
+| 2   | 28               | (28 − 24)² = 16            |
+| 3   | 20               | (20 − 24)² = 16            |
+| 4   | 30               | (30 − 24)² = 36            |
+| 5   | 18               | (18 − 24)² = 36            |
+| 6   | 35               | (35 − 24)² = 121           |
+| 7   | 22               | (22 − 24)² = 4             |
+
+| Cálculo                   | Valor               |
+|---------------------------|---------------------|
+| Soma dos quadrados         | 310                 |
+| Variância (dividir por 6) | 310 ÷ 6 ≈ 51,67     |
+| Desvio padrão             | √51,67 ≈ 7,19       |
+
+---
+
+🎯 **Conclusão:**  
+- Desvio padrão ≈ 0,69 indica pouca variação nas temperaturas (clima estável).  
+- Desvio padrão ≈ 7,19 indica grande variação, refletindo clima instável.
