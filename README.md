@@ -60,6 +60,8 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 | 01   |  Conceitos Básicos        | [Conceitos Básicos](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados/blob/main/aulas/01.md) |
 | 02   |  Coleta Dados (Sorvete)   | [Coleta Dados](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados/blob/main/aulas/02_coleta_dados.md) |
 | 03   |  Atividade 1              | [Formulário](https://forms.gle/Qmt6CyS4K95Uk14C7) |
+| 04   |  Desvio Padrão            | [Desvio Padrão](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados/blob/main/aulas/03_desvio_padrao.md) |
+| 05   |  Desvio Padrão (Gráficos) | [Desvio Padrão (Gráfico)](https://docs.google.com/spreadsheets/d/1hRehwYwFH0OBu6ZJHafff3nKTilE9oRU/edit?usp=sharing&ouid=111054391450593721313&rtpof=true&sd=true) |
 
 ---
 
