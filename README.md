@@ -28,7 +28,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 | Recuperação               | Descrição                      | Pontos   | Data prevista | Realizada? |
 |---------------------------|--------------------------------|----------|----------------|-----------|
 | Avaliações                | A. Descritiva + A. Diagnóstica | 6,0      | 15/08/2025     | ⬜        |
-| Atividades                | A. Descritiva + A. Diagnóstica | 4,0      | 15/08/2025     | ⬜        |
+| Atividades                | A. Descritiva + A. Diagnóstica | 4,0      | 18/08/2025     | ⬜        |
 | **Total**                 |                                | **10,0** |                |            |
 
 ---
