@@ -23,7 +23,7 @@
 
 ### Fórmula - Desvio Padrão Populacional:
 
-> σ² = (1 / N) × Σ (xᵢ − μ)²
+> $\sigma^2 = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2$
 
 > σ = √(σ²)
 
@@ -61,7 +61,7 @@ Valores 21 → 5 vezes → 5 × 1 = 5
 
 ### Fórmula - Desvio Padrão Populacional:
 
-> s² = (1 / (n − 1)) × Σ (xᵢ − x̄)²
+> $s^2 = \frac{1}{n - 1} \sum_{i=1}^{n} (x_i - \bar{x})^2$
 
 > s = √(s²)
 
