@@ -16,7 +16,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 | Avaliação / Atividade     | Descrição                     | Pontos   | Data prevista | Realizada? |
 |---------------------------|-------------------------------|----------|----------------|-------------|
 | Avaliação                 | A. Preditiva + A. Prescritiva | 6,0      | 24/10/2025     | ⬜          |
-| Atividade 1 (grupo)       | A. Preditiva                  | 4,0      | 17/10/2025     | ⬜          |
+| Atividade 1 (grupo)       | A. Preditiva                  | 4,0      | 10/10/2025     | ✅          |
 | **Total**                 |                               | **10,0** |                |             |
 
 ---
@@ -27,6 +27,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 |---------------------------|--------------------------------|----------|----------------|-----------|
 | Avaliação                 | A. Preditiva + A. Prescritiva  | 6,0      | 31/10/2025     | ⬜        |
 | Atividades                | A. Preditiva                   | 4,0      | 31/10/2025     | ⬜        |
+| Plano de Recuperação      | 1o e 2o Trimestres             | 10,0     | 17/10/2025     | ⬜        |
 | **Total**                 |                                | **10,0** |                |           |
 
 ---
