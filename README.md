@@ -42,6 +42,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 | 04   |  Desvio Padrão            | [Acessar](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados/blob/main/aulas/03_desvio_padrao.md) |
 | 05   |  Desvio Padrão (Gráficos) | [Acessar](https://docs.google.com/spreadsheets/d/1hRehwYwFH0OBu6ZJHafff3nKTilE9oRU/edit?usp=sharing&ouid=111054391450593721313&rtpof=true&sd=true) |
 | 05   |  Regressão Linear         | [Acessar](https://www.ibm.com/br-pt/think/topics/linear-regression) |
+| 06   | Regressão Linear (Atividades) | [Acessar](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados/blob/main/aulas/04_regressao_linear_simples.md) |
 
 ---
 
